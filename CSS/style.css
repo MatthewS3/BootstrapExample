@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+    color: black;
+}
+
+.container{
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.img-thumbnail{
+    margin-top: 6px;
+}
